@@ -1,4 +1,4 @@
-# roman-to-int
+# Roman letters to numbers in JavaScript
 ## From LeetCode challenge (Easy) 
 
 ## Description
